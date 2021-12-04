@@ -1,4 +1,6 @@
 # coding: utf8
+#modified to use phow2v in this file
+
 from collections import Counter, OrderedDict
 from torch.utils.data.dataloader import default_collate
 from itertools import chain
